@@ -1,5 +1,11 @@
+import { Menu } from 'src/views'
+
 const App = () => {
-  return <h1>Hello World</h1>
+  return (
+    <main>
+      <Menu />
+    </main>
+  )
 }
 
 export { App }
