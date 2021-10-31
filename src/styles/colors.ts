@@ -5,6 +5,7 @@ const colors = {
   white: '#EFF6F5',
   opaquePrimary: '#478B7F',
   lightSecondary: '#EC4510',
+  grey: '#D4E4E1',
 }
 
 export { colors }
