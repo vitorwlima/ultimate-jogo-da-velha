@@ -6,26 +6,26 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 96px;
+  margin-top: 9.6rem;
 `
 
 export const Title = styled.h1`
   color: ${colors.secondary};
-  margin-bottom: 60px;
+  margin-bottom: 6rem;
 `
 
 export const InputsWrapper = styled.div`
   width: 100%;
-  max-width: 480px;
+  max-width: 48rem;
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 3rem;
 `
 
 export const ButtonsWrapper = styled.div`
   width: 100%;
-  max-width: 480px;
-  margin-top: 80px;
+  max-width: 48rem;
+  margin-top: 8rem;
   display: flex;
   justify-content: space-between;
 `

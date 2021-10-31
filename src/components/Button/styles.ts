@@ -15,8 +15,8 @@ const getTextColor = (color: string) => {
 export const Container = styled.button<ContainerProps>`
   background-color: ${props => colors[props.color]};
   color: ${props => getTextColor(props.color)};
-  border-radius: 6px;
-  padding: 14px 40px;
+  border-radius: 0.6rem;
+  padding: 1.4rem 4rem;
   font-weight: 500;
   border: none;
   cursor: pointer;

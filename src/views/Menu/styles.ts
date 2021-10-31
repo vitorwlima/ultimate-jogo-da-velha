@@ -6,7 +6,7 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 96px;
+  margin-top: 9.6rem;
 `
 
 export const Title = styled.h1`
@@ -16,6 +16,6 @@ export const Title = styled.h1`
 export const ButtonsWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 24px;
-  margin-top: 192px;
+  gap: 2.4rem;
+  margin-top: 19.2rem;
 `

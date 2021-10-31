@@ -8,7 +8,7 @@ export const Container = styled.div`
 `
 
 export const Input = styled.input`
-  padding: 10px;
+  padding: 1rem;
   border: none;
   outline: none;
   background-color: ${colors.grey};
@@ -16,5 +16,5 @@ export const Input = styled.input`
 `
 
 export const Label = styled.label`
-  margin-bottom: 8px;
+  margin-bottom: 0.8rem;
 `
